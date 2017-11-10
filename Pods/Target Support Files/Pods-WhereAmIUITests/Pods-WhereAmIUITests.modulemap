@@ -1,0 +1,6 @@
+framework module Pods_WhereAmIUITests {
+  umbrella header "Pods-WhereAmIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
